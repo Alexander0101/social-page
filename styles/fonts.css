@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'helveticaneu';
+    src: url('../fonts/HelveticaneueRegular/HelveticaneueRegular-webfont.eot');
+    src: url('../fonts/HelveticaneueRegular/HelveticaneueRegular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/HelveticaneueRegular/HelveticaneueRegular-webfont.woff2') format('woff2'),
+         url('../fonts/HelveticaneueRegular/HelveticaneueRegular-webfont.woff') format('woff'),
+         url('../fonts/HelveticaneueRegular/HelveticaneueRegular-webfont.ttf') format('truetype'),
+         url('../fonts/HelveticaneueRegular/HelveticaneueRegular-webfont.svg#helveticaneuecyrroman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'helveticaneue';
+    src: url('../fonts/HelveticaneueBold/HelveticaneueBold-webfont.eot');
+    src: url('../fonts/HelveticaneueBold/HelveticaneueBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/HelveticaneueBold/HelveticaneueBold-webfont.woff2') format('woff2'),
+         url('../fonts/HelveticaneueBold/HelveticaneueBold-webfont.woff') format('woff'),
+         url('../fonts/HelveticaneueBold/HelveticaneueBold-webfont.ttf') format('truetype'),
+         url('../fonts/HelveticaneueBold/HelveticaneueBold-webfont.svg#helveticaneuecyrbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'helveticaneue';
+    src: url('../fonts/HelveticaneueMedium/HelveticaneueMedium-webfont.eot');
+    src: url('../fonts/HelveticaneueMedium/HelveticaneueMedium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/HelveticaneueMedium/HelveticaneueMedium-webfont.woff2') format('woff2'),
+         url('../fonts/HelveticaneueMedium/HelveticaneueMedium-webfont.woff') format('woff'),
+         url('../fonts/HelveticaneueMedium/HelveticaneueMedium-webfont.ttf') format('truetype'),
+         url('../fonts/HelveticaneueMedium/HelveticaneueMedium-webfont.svg#helveticaneuecyrmedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+
+}
